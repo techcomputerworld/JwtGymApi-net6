@@ -1,0 +1,12 @@
+I:\Desarrollo_de_aplicaciones\asp.net\JwtGymApi-net6\JwtGymApi-net6.Data\bin\Debug\net6.0\JwtGymApi-net6.Data.deps.json
+I:\Desarrollo_de_aplicaciones\asp.net\JwtGymApi-net6\JwtGymApi-net6.Data\bin\Debug\net6.0\JwtGymApi-net6.Data.dll
+I:\Desarrollo_de_aplicaciones\asp.net\JwtGymApi-net6\JwtGymApi-net6.Data\bin\Debug\net6.0\JwtGymApi-net6.Data.pdb
+I:\Desarrollo_de_aplicaciones\asp.net\JwtGymApi-net6\JwtGymApi-net6.Data\obj\Debug\net6.0\JwtGymApi-net6.Data.csproj.AssemblyReference.cache
+I:\Desarrollo_de_aplicaciones\asp.net\JwtGymApi-net6\JwtGymApi-net6.Data\obj\Debug\net6.0\JwtGymApi-net6.Data.GeneratedMSBuildEditorConfig.editorconfig
+I:\Desarrollo_de_aplicaciones\asp.net\JwtGymApi-net6\JwtGymApi-net6.Data\obj\Debug\net6.0\JwtGymApi-net6.Data.AssemblyInfoInputs.cache
+I:\Desarrollo_de_aplicaciones\asp.net\JwtGymApi-net6\JwtGymApi-net6.Data\obj\Debug\net6.0\JwtGymApi-net6.Data.AssemblyInfo.cs
+I:\Desarrollo_de_aplicaciones\asp.net\JwtGymApi-net6\JwtGymApi-net6.Data\obj\Debug\net6.0\JwtGymApi-net6.Data.csproj.CoreCompileInputs.cache
+I:\Desarrollo_de_aplicaciones\asp.net\JwtGymApi-net6\JwtGymApi-net6.Data\obj\Debug\net6.0\JwtGymApi-net6.Data.dll
+I:\Desarrollo_de_aplicaciones\asp.net\JwtGymApi-net6\JwtGymApi-net6.Data\obj\Debug\net6.0\refint\JwtGymApi-net6.Data.dll
+I:\Desarrollo_de_aplicaciones\asp.net\JwtGymApi-net6\JwtGymApi-net6.Data\obj\Debug\net6.0\JwtGymApi-net6.Data.pdb
+I:\Desarrollo_de_aplicaciones\asp.net\JwtGymApi-net6\JwtGymApi-net6.Data\obj\Debug\net6.0\ref\JwtGymApi-net6.Data.dll
